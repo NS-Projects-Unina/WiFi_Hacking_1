@@ -1,0 +1,7 @@
+interface=wlan0
+driver=nl80211
+ssid=TIM-83489486_CLONE
+hw_mode=g
+channel=1
+auth_algs=1
+ignore_broadcast_ssid=0
